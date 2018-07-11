@@ -1,6 +1,6 @@
 {
-    "name": "biggold/toastr-for-laravel",
-    "description": "toastr-for-laravel",
+    "name": "biggold/toast-for-laravel",
+    "description": "toast-for-laravel",
     "authors": [
         {
             "name": "Jarvis",
@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Biggold\\Toastr\\": "src/"
+            "Biggold\\Toast\\": "src/"
         }
     },
     "minimum-stability": "dev"
