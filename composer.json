@@ -7,7 +7,12 @@
             "email": "41083104@qq.com"
         }
     ],
-    "require": {},
+    "keywords": [
+        "package"
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
     "autoload": {
         "psr-4": {
             "Biggold\\Toast\\": "src/"
